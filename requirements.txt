@@ -1,0 +1,5 @@
+fastapi==0.104.0
+uvicorn==0.23.2
+datadog==0.44.0
+pyyaml==6.0
+fastmcp>=2.0.0
